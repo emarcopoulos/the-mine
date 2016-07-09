@@ -3,13 +3,13 @@
 ##### Developed by Elias Marcopoulos and Christa Spieth
 
 ### Stuff to Do
-###### Brainstorm ideas
-- [x] Decide type of game
+#### Brainstorm ideas
+- [x] ##### Decide type of game
   - [ ] Exploring game
   - [x] Mining game
-- [ ] Decide on game mechanics
-  - [ ] Concept
-    - [ ] who is mining?
+- [ ] ##### Decide on game mechanics
+  - [ ] ###### Concept
+    - [ ] _who is mining?_
       - [ ] a human
         - [ ] pickaxe and mining tools
         - [ ] a machine powered directly by a human
@@ -17,7 +17,7 @@
       - [ ] a machine powered autonomously
       - [ ] an alien
       - [ ] other
-    - [ ] where is the mine?
+    - [ ] _where is the mine?_
       - [ ] earth
         - [ ] backyard
         - [ ] mining ground
@@ -37,7 +37,7 @@
       - [ ] a comet
       - [ ] some other celestial body
       - [ ] a made up celestial body
-    - [ ] why mine?
+    - [ ] _why mine?_
       - [ ] profit
         - [ ] lowly worker
         - [ ] rich manager
@@ -61,7 +61,7 @@
             - [ ] you take loved one from people
               - [ ] selfish abduction
               - [ ] saving from people
-  - [ ] Movement
+  - [ ] ###### Movement
     - [ ] keys
       - [ ] wasd
       - [ ] arrow
@@ -77,8 +77,8 @@
       - [ ] wall climbing
       - [ ] laddering
       - [ ] teleportation
-  - [ ] Map
-    - [ ] rendering
+  - [ ] ###### Map
+    - [ ] _rendering_
       - [ ] what to render
         - [ ] randomly generated [different game every play]
         - [ ] pattern based [same game for everyone]
@@ -87,7 +87,7 @@
         - [ ] render when within some distance of unrendered map
           - [ ] user render options for small, medium, large
           - [ ] some constant distance we choose
-    - [ ] dimensions [row X col]
+    - [ ] _dimensions_ [row X col]
       - [ ] finite X finite
         - [ ] horizontal wrapping
         - [ ] natural constraints
@@ -102,7 +102,7 @@
         - [ ] planet has hard impermeable part
         - [ ] too hot, instant death
       - [ ] infinite X infinite
-    - [ ] contents
+    - [ ] _contents_
       - [ ] valuables
         - [ ] our own created minerals
         - [ ] based on celestial body chosen
@@ -130,10 +130,10 @@
           - [ ] color
           - [ ] font
           - [ ] your character
-    - [ ] display
+    - [ ] _display_
       - [ ] some constant we decide will be showed to user
       - [ ] user decidable
-  - [ ] Menu
+  - [ ] ###### Menu
     - [ ] settings
     - [ ] save game
     - [ ] log in
@@ -141,14 +141,14 @@
     - [ ] access location
       - [ ] in game map item
       - [ ] press a specific key
-  - [ ] Music
+  - [ ] ###### Music
     - [ ] create song
     - [ ] royalty free song
-- [ ] Decide on Implementation
-  - [x] Language
+- [ ] ##### Decide on Implementation
+  - [x] ###### Language
     - [x] Java
     - [ ] javaScript
     - [ ] C++
-  - [ ] location of display
+  - [ ] ###### location of display
     - [ ] Browser [game will require exportable game state in JSON and importable user commands]
     - [ ] Terminal [game will simply print to terminal]
