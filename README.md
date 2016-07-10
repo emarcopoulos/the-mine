@@ -37,13 +37,13 @@
       - [ ] a comet
       - [ ] some other celestial body
       - [x] a made up celestial body
-    - [ ] why mine?
+    - [x] why mine?
       - [ ] profit
         - [ ] lowly worker
         - [ ] rich manager
-      - [ ] research
+      - [x] research
         - [ ] to help humanity!
-        - [ ] to destroy humanity (^.^)
+        - [x] to destroy humanity (^.^)
       - [ ] survival
         - [ ] escape!
         - [ ] stranded here
@@ -51,16 +51,17 @@
       - [ ] forced labor
         - [ ] old slave society
         - [ ] imprisonment punishment
-      - [ ] personal ambition
+      - [x] personal ambition
         - [ ] save a loved one
-        - [ ] prove worth to a loved one
+        - [x] prove worth to a loved one
           - [ ] gain enough wealth
           - [ ] find some special gem
-          - [ ] loved one is of a species that exists unerground
+          - [x] loved one is of a species that exists underground
             - [ ] you strive to fit in with people
             - [ ] you take loved one from people
               - [ ] selfish abduction
               - [ ] saving from people
+            - [x] broken machine found underground
   - [ ] Movement
     - [ ] keys
       - [ ] wasd
