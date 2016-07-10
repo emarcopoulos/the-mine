@@ -9,12 +9,12 @@
   - [x] Mining game
 - [ ] Decide on game mechanics
   - [ ] Concept
-    - [ ] who is mining?
+    - [x] who is mining?
       - [ ] a human
         - [ ] pickaxe and mining tools
         - [ ] a machine powered directly by a human
         - [ ] a machine powered remotely by a human
-      - [ ] a machine powered autonomously
+      - [x] a machine powered autonomously
       - [ ] an alien
       - [ ] other
     - [ ] where is the mine?
