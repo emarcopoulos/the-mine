@@ -80,22 +80,24 @@
       - [x] teleportation
   - [ ] Map
     - [ ] rendering
-      - [ ] what to render
-        - [ ] randomly generated [different game every play]
+      - [x] what to render
+        - [x] randomly generated [different game every play]
+          - [x] store on continue
+          - [ ] re-generate on continue
         - [ ] pattern based [same game for everyone]
-      - [ ] when to render
+      - [x] when to render
         - [ ] render whole map at once
-        - [ ] render when within some distance of unrendered map
+        - [x] render when within some distance of unrendered map
           - [ ] user render options for small, medium, large
-          - [ ] some constant distance we choose
-    - [ ] dimensions [row X col]
+          - [x] some constant distance we choose
+    - [x] dimensions [row X col]
       - [ ] finite X finite
         - [ ] horizontal wrapping
         - [ ] natural constraints
         - [ ] simply limited mapping
-      - [ ] infinite X finite [dig very deep]
-        - [ ] horizontal wrapping
-        - [ ] no ceiling
+      - [x] infinite X finite [dig very deep]
+        - [x] horizontal wrapping
+        - [x] no ceiling
         - [ ] ceiling
       - [ ] finite X infinite 
         - [ ] stop at planet center
