@@ -78,8 +78,8 @@
       - [ ] wall climbing
       - [ ] laddering
       - [x] teleportation
-  - [ ] Map
-    - [ ] rendering
+  - [x] Map
+    - [x] rendering
       - [x] what to render
         - [x] randomly generated [different game every play]
           - [x] store on continue
@@ -105,37 +105,43 @@
         - [ ] planet has hard impermeable part
         - [ ] too hot, instant death
       - [ ] infinite X infinite
-    - [ ] contents
-      - [ ] valuables
-        - [ ] our own created minerals
+    - [x] contents
+      - [x] valuables
+        - [x] our own created minerals
         - [ ] based on celestial body chosen
-      - [ ] obstacles
-        - [ ] too hard to mine
-        - [ ] too hot to mine
-        - [ ] other
-      - [ ] enemies
+      - [x] obstacles
+        - [x] too hard to mine
+        - [x] too hot to mine
+        - [x] other
+      - [x] enemies
         - [ ] competing miners
         - [ ] underground creatures
-        - [ ] a supernatural power
-          - [ ] god
-          - [ ] devil
-          - [ ] your conscious
-          - [ ] your conscience
-      - [ ] generic
-        - [ ] ground
-        - [ ] sky
-        - [ ] water
-      - [ ] shops
-        - [ ] gas
-        - [ ] mining upgrades
-        - [ ] extra utilities
-        - [ ] fun stuff
-          - [ ] color
-          - [ ] font
-          - [ ] your character
-    - [ ] display
-      - [ ] some constant we decide will be showed to user
+        - [x] a supernatural power
+          - [x] god
+          - [x] devil
+          - [x] your conscious
+          - [x] your conscience
+      - [x] generic
+        - [x] ground
+        - [x] sky
+        - [x] water
+      - [x] shops
+        - [x] trade post
+        - [x] gas
+        - [x] stocks/bank
+        - [x] mining upgrades
+        - [x] extra utilities
+        - [x] fun stuff
+          - [x] color
+          - [x] font
+          - [x] your character
+    - [x] display
+      - [x] some constant we decide will be showed to user
       - [ ] user decidable
+  - [ ] Machine
+    - [ ] health type
+    - [ ] weaknesses
+    - [ ] character
   - [ ] Menu
     - [ ] settings
     - [ ] save game
