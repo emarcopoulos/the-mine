@@ -62,22 +62,22 @@
               - [ ] selfish abduction
               - [ ] saving from people
             - [x] broken machine found underground
-  - [ ] Movement
-    - [ ] keys
-      - [ ] wasd
-      - [ ] arrow
+  - [x] Movement
+    - [x] keys
+      - [x] wasd
+      - [x] arrow
       - [ ] user programmable
       - [ ] other
-    - [ ] mining
-      - [ ] left, right, down
+    - [x] mining
+      - [x] left, right, down
       - [ ] only down
       - [ ] all four directions
       - [ ] start only down, then allow in game upgrades
-    - [ ] going back up
-      - [ ] flying
+    - [x] going back up
+      - [x] flying
       - [ ] wall climbing
       - [ ] laddering
-      - [ ] teleportation
+      - [x] teleportation
   - [ ] Map
     - [ ] rendering
       - [ ] what to render
