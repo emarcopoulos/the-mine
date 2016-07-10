@@ -8,7 +8,7 @@
   - [ ] Exploring game
   - [x] Mining game
 - [ ] Decide on game mechanics
-  - [ ] Concept
+  - [x] Concept
     - [x] who is mining?
       - [ ] a human
         - [ ] pickaxe and mining tools
