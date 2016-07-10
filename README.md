@@ -153,11 +153,11 @@
   - [ ] Music
     - [ ] create song
     - [ ] royalty free song
-- [ ] Decide on Implementation
+- [x] Decide on Implementation
   - [x] Language
     - [x] Java
     - [ ] javaScript
     - [ ] C++
-  - [ ] location of display
-    - [ ] Browser [game will require exportable game state in JSON and importable user commands]
+  - [x] location of display
+    - [x] Browser [game will require exportable game state in JSON and importable user commands]
     - [ ] Terminal [game will simply print to terminal]
