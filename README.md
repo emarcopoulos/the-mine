@@ -17,7 +17,7 @@
       - [x] a machine powered autonomously
       - [ ] an alien
       - [ ] other
-    - [ ] where is the mine?
+    - [x] where is the mine?
       - [ ] earth
         - [ ] backyard
         - [ ] mining ground
@@ -36,7 +36,7 @@
       - [ ] an asteroid
       - [ ] a comet
       - [ ] some other celestial body
-      - [ ] a made up celestial body
+      - [x] a made up celestial body
     - [ ] why mine?
       - [ ] profit
         - [ ] lowly worker
