@@ -156,7 +156,8 @@
 - [x] Decide on Implementation
   - [x] Language
     - [x] Java
-    - [ ] javaScript
+    - [x] javaScript
+    - [x] HTML
     - [ ] C++
   - [x] location of display
     - [x] Browser [game will require exportable game state in JSON and importable user commands]
